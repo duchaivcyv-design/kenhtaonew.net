@@ -1,0 +1,11 @@
+Package: net.kenhtaonew.highgraphics
+Name: HighGraphics Pro
+Version: 2.0.1
+Architecture: iphoneos-arm
+Description: Mo khoa do hoa cho iOS 14-17.
+Maintainer: Kenh Tao New
+Author: PoomSmart
+Section: Tweaks
+Filename: HighGraphics.deb
+Size: 102400
+MD5sum: 1234567890abcdef1234567890abcdef
